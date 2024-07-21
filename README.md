@@ -15,10 +15,8 @@ description: 'Insight of the 100 movies that got the worst critics on Rotten Tom
   yAxis="density"
 />
 
-The complete list of 300 cities in the United States used for this report is below. Remember that you can filter by population in 2020 and 2024, city, state, population change in the mentioned period, density, and area in square miles.
-
 <FlatUiTable
   data={{
-    url: 'data.csv'    
+    url: 'movies.csv'    
   }}
 />
