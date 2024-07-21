@@ -42,9 +42,14 @@ description: 'Insight of the 100 movies that got the worst critics on Rotten Tom
   yAxis="amount"
 />
 
-
 <FlatUiTable
   data={{
     url: 'movies.csv'    
+  }}
+/>
+
+<FlatUiTable
+  data={{
+    url: 'reviews.csv'    
   }}
 />
