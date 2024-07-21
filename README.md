@@ -29,7 +29,7 @@ description: 'Insight of the 100 movies that got the worst critics on Rotten Tom
     url: 'critic_score.csv'
   }}
   title="Most repeated critic scores"
-  xAxis="critic_score"
+  xAxis="critics_score"
   yAxis="amount"
 />
 
