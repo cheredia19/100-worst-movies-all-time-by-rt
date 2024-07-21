@@ -42,13 +42,13 @@ description: 'Insight of the 100 movies that got the worst critics on Rotten Tom
   yAxis="amount"
 />
 
-<PlotlyLineChart
+<PlotlyBarChart
   data={{
     url: 'critic_movie.csv'
   }}
   title="Number of critics for each movie"
   xAxis="movie"
-  yAxis="rate"
+  yAxis="reviews"
 />
 
 <FlatUiTable
