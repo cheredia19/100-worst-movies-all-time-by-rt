@@ -48,8 +48,10 @@ description: 'Insight of the 100 movies that got the worst critics on Rotten Tom
   }}
 />
 
+## Reviews
+
 <FlatUiTable
   data={{
-    url: 'reviews.csv'    
+    url: 'all_reviews.csv'    
   }}
 />
