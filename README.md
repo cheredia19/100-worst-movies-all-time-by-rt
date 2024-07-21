@@ -33,11 +33,11 @@ description: 'Insight of the 100 movies that got the worst critics on Rotten Tom
   yAxis="amount"
 />
 
-<PlotlyBarChart
+<PlotlyLineChart
   data={{
     url: 'audience_score.csv'
   }}
-  title="Most repeated audience scores"
+  title="Most repeated audience scores (/100)"
   xAxis="audience_score"
   yAxis="amount"
 />
