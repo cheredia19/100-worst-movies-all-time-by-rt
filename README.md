@@ -51,13 +51,24 @@ description: 'Insight of the 100 movies that got the worst critics on Rotten Tom
   yAxis="reviews"
 />
 
+<PlotlyBarChart
+  data={{
+    url: 'critic_publications.csv'
+  }}
+  title="Number of critics for each publication"
+  xAxis="publicationName"
+  yAxis="publications"
+/>
+
+## List of the 100 worst movies of all time
+
 <FlatUiTable
   data={{
     url: 'movies.csv'    
   }}
 />
 
-## Reviews
+## All the reviews of these films
 
 <FlatUiTable
   data={{
