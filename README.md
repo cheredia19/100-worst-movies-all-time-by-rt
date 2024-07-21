@@ -8,11 +8,11 @@ description: 'Insight of the 100 movies that got the worst critics on Rotten Tom
 
 <PlotlyBarChart
   data={{
-    url: 'density_below_2_5k.csv'
+    url: 'decade.csv'
   }}
-  title="US cities with density below 2.5K"
-  xAxis="city_state"
-  yAxis="density"
+  title="Decade of release"
+  xAxis="decade"
+  yAxis="amount"
 />
 
 <FlatUiTable
