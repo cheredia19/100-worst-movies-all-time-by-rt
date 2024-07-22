@@ -60,6 +60,24 @@ description: 'Insight of the 100 movies that got the worst critics on Rotten Tom
   yAxis="publications"
 />
 
+<PlotlyBarChart
+  data={{
+    url: 'critic_publications.csv'
+  }}
+  title="Number of reviews made by each critic"
+  xAxis="criticName"
+  yAxis="reviews"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'critic_publications.csv'
+  }}
+  title="Number of reviews made by each critic"
+  xAxis="criticName"
+  yAxis="rate"
+/>
+
 ## List of the 100 worst movies of all time
 
 <FlatUiTable
