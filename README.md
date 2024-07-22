@@ -62,7 +62,7 @@ description: 'Insight of the 100 movies that got the worst critics on Rotten Tom
 
 <PlotlyBarChart
   data={{
-    url: 'critic_publications.csv'
+    url: 'critics.csv'
   }}
   title="Number of reviews made by each critic"
   xAxis="criticName"
@@ -71,9 +71,9 @@ description: 'Insight of the 100 movies that got the worst critics on Rotten Tom
 
 <PlotlyBarChart
   data={{
-    url: 'critic_publications.csv'
+    url: 'critics.csv'
   }}
-  title="Number of reviews made by each critic"
+  title="Number of reviews made by each critic (rate)"
   xAxis="criticName"
   yAxis="rate"
 />
