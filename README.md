@@ -11,6 +11,8 @@ It received **119 critics** from September 18, 2022, to September 19, 2022, alth
 
 The horror movie **One Missed Call** (2008), and Nicolas Cage's **Left Behind** (2014) complete the unwanted podium.
 
+One Missed Call, a movie that addresses the question *what will it sound like when you die?*, received an audience score of 29% and 80 negative reviews from critics, while Left Behind: The End Begins got 19% and 70, respectively.
+
 ## Has the quality of the films declined over time?
 
 The 2000s decade gathered 46% of the 100 worst movies, followed by the 2010s (28%). 
