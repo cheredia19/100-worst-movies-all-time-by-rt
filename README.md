@@ -35,24 +35,26 @@ The year 2002 itself recorded 10% of the worst-evaluated movies by critics and a
   yAxis="rate"
 />
 
-Thirty-five films were rated with the lowest allowed (0%), while twenty-two movies received a critic score (a.k.a. Tomatometer) of 3%. To put it in perspective, the maximum possible score is 100%.
+Thirty-five films were rated with the lowest allowed (0%), while twenty-two movies received a critic score (a.k.a. Tomatometer) of 3%.
 
 <PlotlyBarChart
   data={{
     url: 'critic_scores.csv'
   }}
-  title="Most repeated critic scores"
+  title="Most repeated critic scores (%)"
   xAxis="critic_score"
   yAxis="amount"
 />
 
+The audience from Rotten Tomatoes rated the *worst 100 films* within a range between 11 and 76 percent. 25, 29, and 38 scores repeated six times each. The one with 76%? Freelance. An action movie, released in 2023 and starring John Cena, Allison Brie, Christian Slater, and Colombian actor Juan Pablo Raba, gathered the number over +100 verified ratings.
 
+To put it in perspective, the maximum possible critic and audience scores are 100%.
 
 <PlotlyLineChart
   data={{
     url: 'audience_score.csv'
   }}
-  title="Most repeated audience scores (/100)"
+  title="Most repeated audience scores (%)"
   xAxis="audience_score"
   yAxis="amount"
 />
