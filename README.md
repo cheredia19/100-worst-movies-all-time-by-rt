@@ -5,6 +5,11 @@ description: 'Insight of the 100 movies that got the worst critics on Rotten Tom
 
 *By [César Heredia](https://x.com/cahered), data journalist*
 
+The film **Ballistic: Ecks vs. Sever**, starring Antonio Banderas and Lucy Liu, is labeled the **worst movie of all time** by Rotten Tomatoes, an American review website for films and TV shows. The action movie, released in 2022, got a critic score of 0% and an audience score of 20%.
+
+It received **119 critics** from September 18, 2022, to September 19, 2022, although most came 22 years ago. All of the critics were **negative**.
+
+The horror movie **One Missed Call** (2008), and Nicolas Cage's **Left Behind** (2014) complete the unwanted podium.
 
 <PlotlyBarChart
   data={{
