@@ -15,7 +15,7 @@ One Missed Call, a movie that addresses the question *what will it sound like wh
 
 ## Has the quality of the films declined over time?
 
-The 2000s decade gathered 46% of the 100 worst movies, followed by the 2010s (28%). This group include the *classic* cable TV film Jack and Jill (2011), the horror-satire Scary Movie V (2013) with Charlie Sheen and Ashley Tisdale, and Texas Rangers (2021), a movie that saw James Van Der Beek and Ashton Kutcher in different roles from the ones they starred in TV shows Dawson's Creek and That 70s Show.
+The 2000s decade gathered 46% of the 100 worst movies, followed by the 2010s (28%). This group includes the *classic* cable TV film Jack and Jill (2011), the horror-satire Scary Movie V (2013) with Charlie Sheen and Ashley Tisdale, and Texas Rangers (2021), a movie that saw James Van Der Beek and Ashton Kutcher in different roles from the ones they cast in TV shows Dawson's Creek and That 70s Show.
 
 <PlotlyBarChart
   data={{
