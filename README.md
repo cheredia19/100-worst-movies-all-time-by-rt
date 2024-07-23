@@ -46,7 +46,7 @@ Thirty-five films were rated with the lowest allowed (0%), while twenty-two movi
   yAxis="amount"
 />
 
-The audience from Rotten Tomatoes rated the *worst 100 films* within a range between 11 and 76 percent. 25, 29, and 38 scores repeated six times each. The one with 76%? Freelance. An action movie, released in 2023 and starring John Cena, Allison Brie, Christian Slater, and Colombian actor Juan Pablo Raba, gathered the number over +100 verified ratings.
+The audience from Rotten Tomatoes rated the *worst 100 films* within a range between 11 and 76 percent. 25, 29, and 38 scores repeated six times each. The one with 76%? **Freelance**. An action movie, released in 2023 and starring John Cena, Allison Brie, Christian Slater, and Colombian actor Juan Pablo Raba, gathered the number over +100 verified ratings.
 
 To put it in perspective, the maximum possible critic and audience scores are 100%.
 
