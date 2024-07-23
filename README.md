@@ -59,11 +59,22 @@ To put it in perspective, the maximum possible critic and audience scores are 10
   yAxis="amount"
 />
 
+The full list of Rotten Tomatoes' 100 Worst Movies of All Time is below. You can filter by ranking, title, year of release, plus critic and audience scores.
+
+<FlatUiTable
+  data={{
+    url: 'movies.csv'    
+  }}
+/>
+
+## Insight of the reviews
+
+
 <PlotlyBarChart
   data={{
     url: 'critic_movie.csv'
   }}
-  title="Number of critics for each movie"
+  title="Number of reviews for each movie"
   xAxis="movie"
   yAxis="reviews"
 />
@@ -72,7 +83,7 @@ To put it in perspective, the maximum possible critic and audience scores are 10
   data={{
     url: 'critic_publications.csv'
   }}
-  title="Number of critics for each publication"
+  title="Number of reviews for each publication"
   xAxis="publicationName"
   yAxis="publications"
 />
@@ -84,23 +95,6 @@ To put it in perspective, the maximum possible critic and audience scores are 10
   title="Number of reviews made by each critic"
   xAxis="criticName"
   yAxis="reviews"
-/>
-
-<PlotlyBarChart
-  data={{
-    url: 'all_critics.csv'
-  }}
-  title="Number of reviews made by each critic (rate)"
-  xAxis="criticName"
-  yAxis="rate"
-/>
-
-## List of the 100 worst movies of all time
-
-<FlatUiTable
-  data={{
-    url: 'movies.csv'    
-  }}
 />
 
 ## All the reviews of these films
