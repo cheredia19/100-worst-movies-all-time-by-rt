@@ -26,7 +26,7 @@ The 2000s decade gathered 46% of the 100 worst movies, followed by the 2010s (28
   yAxis="amount"
 />
 
-
+The year 2002 itself recorded 10% of the worst-evaluated movies by critics and audiences on Rotten Tomatoes. Apart from the mentioned  *Ballistic: Ecks vs. Sever*, films like Pinocchio, written and cast by Roberto Benigni (La vita è bella), romance story Killing Me Softly, and Dana Carvey's (Wayne's World) The Master of Disguise, among others, were the films released that year that made the list. Seven movies from 2007 and 2016 were deemed into the group of the worst ones of all time.
 
 <PlotlyLineChart
   data={{
