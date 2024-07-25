@@ -88,6 +88,8 @@ The number of reviews received by each film can be seen in the graph below:
   yAxis="reviews"
 />
 
+Variety (93), The New York Times (87), and Los Angeles Times (74) were the publications that posted more reviews.
+
 <PlotlyBarChart
   data={{
     url: 'critic_publications.csv'
@@ -97,6 +99,8 @@ The number of reviews received by each film can be seen in the graph below:
   yAxis="publications"
 />
 
+One particular name stood out from the film pundits: **Brian Orndorf**. He posted 70 reviews on six different websites. Orndorf is followed by **Frank Swietek** (56 reviews), and **Eric D. Snider** (49 collaborations) among the most active critics who posted reviews on the worst 100 movies).
+
 <PlotlyBarChart
   data={{
     url: 'all_critics.csv'
@@ -105,6 +109,8 @@ The number of reviews received by each film can be seen in the graph below:
   xAxis="criticName"
   yAxis="reviews"
 />
+
+The full list of reviews of the Rotten Tomatoes' 100 Worst Movies of All Time is below. Remember that you can filter by date, critic name, critic page URL, whether is or not a top critic, publication URL on RT, publication name, review URL, quotes, score sentiment, original score ,and, of course, by movie.
 
 ## All the reviews of these films
 
