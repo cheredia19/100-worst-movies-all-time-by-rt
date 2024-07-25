@@ -69,6 +69,13 @@ The full list of Rotten Tomatoes' 100 Worst Movies of All Time is below. You can
 
 ## Insight of the reviews
 
+Of the so-called *100 worst movies of all time*, the action and adventure film **The Last Airbender (2010)** got the most reviews by critics: 183 negative, and only nine positive.
+
+"It captivated my imagination," said Fred Topel, from Can Magazine, while Felix Vasquez Jr. (Cinema Crazed) was "intrigued to see where the next film goes (at the time),"  were two of the positive ones.
+
+At the other end, **Simon Sez** (1999), cast by former Chicago Bulls player Dennis Rodman, needed only 20 critic reviews to earn its place in the worst 100.
+
+"If you're a big Dennis Rodman fan, watch him playing basketball. If you're not, then you have zero reason to take in this movie," argued Evan Gatehouse, from Apollo Guide.
 
 <PlotlyBarChart
   data={{
