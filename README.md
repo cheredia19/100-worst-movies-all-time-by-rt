@@ -77,6 +77,8 @@ At the other end, **Simon Sez** (1999), cast by former Chicago Bulls player Denn
 
 "If you're a big Dennis Rodman fan, watch him playing basketball. If you're not, then you have zero reason to take in this movie," argued Evan Gatehouse, from Apollo Guide.
 
+The number of reviews received by each film can be seen in the graph below:
+
 <PlotlyBarChart
   data={{
     url: 'critic_movie.csv'
