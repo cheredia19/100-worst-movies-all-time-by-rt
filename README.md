@@ -110,9 +110,7 @@ One particular name stood out from the film pundits: **Brian Orndorf**. He poste
   yAxis="reviews"
 />
 
-The full list of reviews of the Rotten Tomatoes' 100 Worst Movies of All Time is below. Remember that you can filter by date, critic name, critic page URL, whether is or not a top critic, publication URL on RT, publication name, review URL, quotes, score sentiment, original score ,and, of course, by movie.
-
-## All the reviews of these films
+All the reviews of the Rotten Tomatoes' 100 Worst Movies of All Time are below. Remember that you can filter by date, critic name, critic page URL, whether is or not a top critic, publication URL on RT, publication name, review URL, quotes, score sentiment, original score ,and, of course, by movie.
 
 <FlatUiTable
   data={{
